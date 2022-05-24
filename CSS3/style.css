@@ -1,0 +1,33 @@
+
+.body{
+    font: 40px Arial, Courier, monospace, sans-serif ;
+   
+}
+.navbar{
+    background-color: #AECDF8;
+}
+
+.navbar-nav{
+    font-size: 23px;
+}
+
+.quem-somos{
+    background-color:#75AAF4;
+    color: black;
+}
+
+.margin{
+   /* margin-top: 10px;*/
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+.serviços{
+    background-color:#7CB0F8;
+}
+
+.footer{
+    background-color: black;
+    color: #7DB0F4 ;
+}
